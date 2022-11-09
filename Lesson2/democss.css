@@ -1,3 +1,33 @@
-h1 {
+.Dong1 {
     color: green;
+    background-color: yellow;
+}
+
+/* h2 {
+    color: aquamarine;
+} */
+
+.Dong2 {
+    color:brown;
+    background-color: bisque;
+}
+
+#Dong4 {
+    color:rgb(181, 181, 17);
+}
+
+#Dong5 {
+    color:chocolate;
+}
+
+h4 {
+    background-color: red;
+}
+
+.class1 {
+    background-color: yellow;
+}
+
+#id1 {
+    background-color:green;
 }

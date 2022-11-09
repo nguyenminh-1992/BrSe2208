@@ -1,0 +1,11 @@
+h1 {
+    border: 10px solid red;
+    background-color: green;
+    margin: 100px;
+    /* margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 200px; */
+    /* margin: 50px 100px 200px 100px; */
+    padding: 70px;
+}
